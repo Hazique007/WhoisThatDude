@@ -1,4 +1,4 @@
-# whosthatdude
+# whoisthatdude
 
 A new Flutter project.
 
